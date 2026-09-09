@@ -1,3 +1,7 @@
 SELECT *
+
 FROM produtos
-WHERE DescCategoriaProduto = 'espada'
+
+WHERE DescCategoriaProduto = 'espada' 
+
+LIMIT 5
