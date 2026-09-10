@@ -1,2 +1,2 @@
 SELECT * FROM produtos
-WHERE DescDescricaoProduto LIKE 'Churn%'
+WHERE DescDescricaoProduto LIKE '%arm%'
